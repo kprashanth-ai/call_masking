@@ -1,0 +1,7 @@
+streamlit
+redis
+requests
+pydantic
+python-dotenv
+flask
+gunicorn
